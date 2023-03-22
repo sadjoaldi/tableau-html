@@ -1,0 +1,16 @@
+body {
+  background: rgb(184, 170, 149);
+}
+
+table {
+  border-collapse: collapse;
+}
+
+th,
+td {
+  border: 1px solid black;
+  padding: 10px;
+}
+.info {
+  background-color: lightBlue;
+}
